@@ -1,0 +1,19 @@
+/*Styles for element*/
+
+
+/*Article Style*/
+
+#styleArticle {
+    border: 1px solid black;
+    height: 100px;
+    line-height: 100px;
+}
+
+
+/*Logo Style*/
+
+#styleLogo {
+    height: 50px;
+    width: 50px;
+    vertical-align: middle;
+}
